@@ -1,0 +1,7 @@
+CWD Command implemented.
+
+"cd <folder_name>"
+Will change to the folder name (vip_folder only accessed by authorised users)
+
+"cd .."
+Will change to the folder above (up to the root folder)
